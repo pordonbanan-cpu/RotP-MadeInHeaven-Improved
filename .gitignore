@@ -1,0 +1,11 @@
+libs/*.jar
+!libs/README.txt
+run/
+build/
+.gradle/
+out/
+*.class
+.idea/
+*.iml
+src/main/java_decompiled/
+notes/original_*.jar

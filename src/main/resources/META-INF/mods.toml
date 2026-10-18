@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GPL-3.0-only"
+
+[[mods]]
+modId="rotp_mih"
+version="${file.jarVersion}"
+displayName="RotP: Made in Heaven (Improved)"
+authors="Weever (original), Improved version"
+description='''
+Improved Made in Heaven addon for Ripples of the Past.
+Features better Universe Reset, knife throwing, custom particles and more abilities.
+'''
+
+[[dependencies.rotp_mih]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rotp_mih]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rotp_mih]]
+    modId="jojo"
+    mandatory=true
+    versionRange="[0.2.2,)"
+    ordering="NONE"
+    side="BOTH"
