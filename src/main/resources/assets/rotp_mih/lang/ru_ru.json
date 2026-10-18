@@ -1,0 +1,21 @@
+{
+  "entity.rotp_mih.madeinheaven": "Made in Heaven",
+  "stand.rotp_mih.madeinheaven": "Made in Heaven",
+  "action.rotp_mih.mih_punch": "Удар",
+  "action.rotp_mih.mih_heavy_punch": "Тяжёлый удар",
+  "action.rotp_mih.mih_chop": "Рубящий удар",
+  "action.rotp_mih.mih_barrage": "Шквал ударов",
+  "action.rotp_mih.mih_dash": "Световой рывок",
+  "action.rotp_mih.mih_universe_reset": "Сброс Вселенной",
+  "action.rotp_mih.mih_block": "Блок",
+  "action.rotp_mih.mih_throat_slice": "Рассечение горла",
+  "action.rotp_mih.mih_knife_throw": "Метание ножей",
+  "action.rotp_mih.mih_time_system.cast": "Система Времени: %s",
+  "rotp_mih.time_system.acceleration": "Ускорение",
+  "rotp_mih.time_system.clear": "Сброс",
+  "death.attack.rotp_mih.universe_reset": "%1$s был стёрт Made in Heaven",
+  "death.attack.rotp_mih.universe_reset.player": "%1$s был стёрт Made in Heaven игрока %2$s",
+  "rotp_mih.subtitle.madeinheaven_summon": "\"Made in Heaven!\"",
+  "rotp_mih.message.action_condition.cant_use_without_acceleration": "Нельзя использовать без ускорения времени",
+  "rotp_mih.message.action_condition.already_time_manipulation": "Кто-то уже манипулирует временем"
+}
